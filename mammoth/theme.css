@@ -593,10 +593,6 @@ Base Style
   color: #333333;
 }
 
-/* pan/core.scss */
-*[disabled] {
-  pointer-events: none;
-}
 
 /* Interaction states */
 /* pan/core.scss */
